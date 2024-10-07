@@ -1,6 +1,6 @@
 # BazePodatkov
 
-drugo
+tezava
 
 git add {filename}   -- doda datoteko filename
 
